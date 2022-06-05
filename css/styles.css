@@ -513,7 +513,7 @@ display: flex;
 /* Button  */
 
 .button {
-    display: flex;
+    display: inline-block;
     padding-top: 10px;
     padding-right: 32px;
     padding-bottom: 10px;
